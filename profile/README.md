@@ -9,13 +9,13 @@
 <p align="center"> 👇  </p>
 <p align="center">
 
-<a href="https://qrew.se">
+<a target="_blank" rel="noreferrer noopener" href="https://qrew.se">
   <img height="50" src="https://img1.wsimg.com/isteam/ip/ed9530d8-0060-47b9-b421-294b857055ae/favicon/218a9512-b036-4bdf-9d23-1658e74c11c1.png/:/rs=w:64,h:64,m"/>
 </a>
-<a href="https://www.linkedin.com/company/qrewbyq/mycompany/">
+<a target="_blank" rel="noreferrer noopener" href="https://www.linkedin.com/company/qrewbyq/mycompany/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-1024.png"/>
 </a>
-<a href="https://www.instagram.com/qrew.se/">
+<a target="_blank" rel="noreferrer noopener" href="https://www.instagram.com/qrew.se/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-1024.png"/>
 </a>
 </p>
